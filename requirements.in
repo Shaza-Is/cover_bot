@@ -1,0 +1,10 @@
+torch
+mujoco-py<2.0,>=1.5
+gym[all]
+matplotlib
+numpy
+scipy
+scikit-learn
+pandas
+stable-baselines3[extra]
+ipykernel
